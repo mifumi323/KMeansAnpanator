@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KMeansAnpanator", "KMeansAnpanator\KMeansAnpanator.csproj", "{70C205F6-A932-40AD-85EB-FBB18BE4BFFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsForms", "WindowsForms\WindowsForms.csproj", "{CFBBC521-A439-4F4D-B906-1F8501DCC18D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70C205F6-A932-40AD-85EB-FBB18BE4BFFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C205F6-A932-40AD-85EB-FBB18BE4BFFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C205F6-A932-40AD-85EB-FBB18BE4BFFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C205F6-A932-40AD-85EB-FBB18BE4BFFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFBBC521-A439-4F4D-B906-1F8501DCC18D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFBBC521-A439-4F4D-B906-1F8501DCC18D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFBBC521-A439-4F4D-B906-1F8501DCC18D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFBBC521-A439-4F4D-B906-1F8501DCC18D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
